@@ -1,0 +1,10 @@
+- hw1 -> Reading numbers at the input and performing elementary mathematical operations
+- hw2 -> We read numbers at the input, perform elementary mathematical operations in a loop
+- hw3 -> We read the height, width at the entrance and build, draw a house in the terminal
+- hw4 -> We read the numbers at the input and split the number into prime divisors.
+- hw5 -> We read two texts at the input and use the Caesar cipher to determine the encoded message
+- hw6 -> We read the numbers and the operator at the input. We build matrices from the obtained numbers and perform mathematical operations
+- hw7 -> We enter the text we want to find and enter the file in which we are looking for this text
+- hw8 -> Working with a circular queue
+- hw9 -> Working with an ordinary graph. Read data from file and save to file
+- hw10 -> Working with a graph using Dijkstra's Algorithm
